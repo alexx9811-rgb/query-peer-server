@@ -1,0 +1,1 @@
+{"name":"query-peer-server","dependencies":{"peer":"*"},"scripts":{"start":"peerjs --port $PORT"}}
