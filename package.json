@@ -1,1 +1,1 @@
-{"name":"query-peer-server","dependencies":{"peer":"*"},"scripts":{"start":"peerjs --port $PORT"}}
+{"name":"query-peer-server","dependencies":{"peer":"*"},"scripts":{"start":"npx peerjs --port $PORT"}}
